@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Emre Ay</h1>
 <h3 align="center">I'm trying to learn my best</h3>
 
-- 🌱 I’m currently learning **JavaScript ,ReacT ,Redux , PhP**
+- 🌱 I’m currently learning **JavaScript ,ReacT ,Redux , PhP** , C# , .Net
 
 - 📫 You can reach me **ay.vet.hek@gmail.com**
 
